@@ -1,6 +1,6 @@
-from django.http.response import HttpResponse
 import datetime
 
+from django.http.response import HttpResponse
 
 
 def index(request):
